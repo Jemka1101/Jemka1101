@@ -1,6 +1,8 @@
 <div id="header" align="center">
   Hi there 👋
 
+  My name is Nikita
+
 I’m currently learning python
 <!--
 **Jemka1101/Jemka1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
