@@ -1,9 +1,15 @@
 <div id="header" align="center">
   Hi there 👋
 
-  My name is Nikita
 
-I’m currently learning python
+-My name is Nikita
+
+-I’m currently learning python
+
+-And now You cant watch my progs witout this:
+
+</h1>
+  <img src="https://media0.giphy.com/media/Ho2mVZ5dvsW7S/giphy.gif" width="500"/>
 <!--
 **Jemka1101/Jemka1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
